@@ -1,0 +1,11 @@
+P = 10
+Total no. of edges detected for p = 10 : 8675
+Chosen gray level value for this p value : 51.64952524879465
+
+P = 30
+Total no. of edges detected for p = 30 : 26024
+Chosen gray level value for this p value : 29.80985363251793
+
+P = 50
+Total no. of edges detected for p = 50 : 43373
+Chosen gray level value for this p value : 18.130005918106257
